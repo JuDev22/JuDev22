@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @JuDev22,
-- 👀 I’m interested in Web and App Development,
-- 🌱 I’m currently learning Design, Front and Back-End,
-- 💞️ I’m not looking to collaborate on something during my formation,
+- 👀 I’m interested in App Development,
+
